@@ -1,0 +1,62 @@
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\appsettings.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.staticwebassets.runtime.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.exe
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.deps.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.runtimeconfig.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.pdb
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.csproj.AssemblyReference.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.AssemblyInfoInputs.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.AssemblyInfo.cs
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.csproj.CoreCompileInputs.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.RazorAssemblyInfo.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.RazorAssemblyInfo.cs
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.TPN1_GonzalezSmithTomas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.build.TPN1_GonzalezSmithTomas.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TPN1_GonzalezSmithTomas.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TPN1_GonzalezSmithTomas.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\scopedcss\bundle\TPN1_GonzalezSmithTomas.styles.css
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\scopedcss\projectbundle\TPN1_GonzalezSmithTomas.bundle.scp.css
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\refint\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.pdb
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.genruntimeconfig.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\ref\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\appsettings.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.staticwebassets.runtime.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.exe
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.deps.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.runtimeconfig.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\bin\Debug\net7.0\TPN1_GonzalezSmithTomas.pdb
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.csproj.AssemblyReference.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.AssemblyInfoInputs.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.AssemblyInfo.cs
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.csproj.CoreCompileInputs.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.RazorAssemblyInfo.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.RazorAssemblyInfo.cs
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.TPN1_GonzalezSmithTomas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.build.TPN1_GonzalezSmithTomas.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TPN1_GonzalezSmithTomas.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TPN1_GonzalezSmithTomas.props
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\scopedcss\bundle\TPN1_GonzalezSmithTomas.styles.css
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\scopedcss\projectbundle\TPN1_GonzalezSmithTomas.bundle.scp.css
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\refint\TPN1_GonzalezSmithTomas.dll
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.pdb
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\TPN1_GonzalezSmithTomas.genruntimeconfig.cache
+D:\Users\TomasGS\Documents\ISTEA\Materias\5to Cuatrimestre\Herramientas de Programación\TP_N1\TPN1_GonzalezSmithTomas\obj\Debug\net7.0\ref\TPN1_GonzalezSmithTomas.dll

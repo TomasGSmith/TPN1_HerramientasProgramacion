@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TPN1_GonzalezSmithTomas/1.0.0": {
+        "runtime": {
+          "TPN1_GonzalezSmithTomas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPN1_GonzalezSmithTomas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+@model List<Car>
+
+<div class="text-center">
+    <h1 class="display-4">Car Inventory</h1>
+</div>
+<ol>
+    @foreach (var item in Model)
+    {
+        <li><a asp-action="Detail" asp-route-id="@item.Code">@item.Brand @item.Name</a></li>
+    }
+</ol>
+
+<a asp-action="Create">Add a new Car</a>
